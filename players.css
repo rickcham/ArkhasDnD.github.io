@@ -7,7 +7,7 @@
 
 
 .ElfSection{
-    background-image: url(Elven_Kingdom.jpg);}
+    background-image: url(Elven_Kingdom.jpg;}
 
 
 .TextElfforge{
@@ -40,5 +40,5 @@
      
 }
 .EldrinSection{
-background-image: url('Taihe.jpg');
+background-image: url('Taihe.jpg';
 }
